@@ -226,8 +226,6 @@ def logo():
     print("\n")
     sleep(1)
     return
-
-    
 print("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n")
 logo()
 from time import sleep
